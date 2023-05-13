@@ -11,8 +11,8 @@ public class UnidadeCurricular {
 	{
 		this.professor = professor;
 		this.nome = nome;
-		this. = atividade;
-		this. = aluno;
+		this.atividades = atividade;
+		this.alunos = aluno;
 		
 	}
 	
